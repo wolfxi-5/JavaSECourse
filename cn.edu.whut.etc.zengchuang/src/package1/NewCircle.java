@@ -7,7 +7,6 @@ public class NewCircle {
     {
         c1 = new Circle();
         c1.changeColor("blue");
-//        hello
         c1.moveHorizontal(30);
         c1.moveVertical(-30);
         c1.changeSize(100);

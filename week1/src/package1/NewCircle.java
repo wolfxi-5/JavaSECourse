@@ -27,6 +27,6 @@ public class NewCircle {
 
     public static void main(String[] args) {
         NewCircle newcircle = new NewCircle();
-        newcircle.draw();;
+        newcircle.draw();
     }
 }

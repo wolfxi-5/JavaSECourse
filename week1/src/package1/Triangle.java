@@ -2,27 +2,29 @@ package package1;
 
 import java.awt.*;
 
-public class Square {
-    private int size;
+public class Triangle {
+    private int height;
+    private int width;
     private int xPosition;
     private int yPosition;
     private String color;
     private boolean isVisible;
 
     /**
-     * Create a new square at default position with default color.
+     * Create a new triangle at default position with default color.
      */
-    public Square()
+    public Triangle()
     {
-        size = 30;
-        xPosition = 60;
-        yPosition = 50;
-        color = "red";
+        height = 30;
+        width = 40;
+        xPosition = 50;
+        yPosition = 15;
+        color = "green";
         isVisible = false;
     }
 
     /**
-     * Make this square visible. If it was already visible, do nothing.
+     * Make this triangle visible. If it was already visible, do nothing.
      */
     public void makeVisible()
     {
@@ -31,7 +33,7 @@ public class Square {
     }
 
     /**
-     * Make this square invisible. If it was already invisible, do nothing.
+     * Make this triangle invisible. If it was already invisible, do nothing.
      */
     public void makeInvisible()
     {
@@ -40,7 +42,7 @@ public class Square {
     }
 
     /**
-     * Move the square a few pixels to the right.
+     * Move the triangle a few pixels to the right.
      */
     public void moveRight()
     {
@@ -48,7 +50,7 @@ public class Square {
     }
 
     /**
-     * Move the square a few pixels to the left.
+     * Move the triangle a few pixels to the left.
      */
     public void moveLeft()
     {
@@ -56,7 +58,7 @@ public class Square {
     }
 
     /**
-     * Move the square a few pixels up.
+     * Move the triangle a few pixels up.
      */
     public void moveUp()
     {
@@ -64,7 +66,7 @@ public class Square {
     }
 
     /**
-     * Move the square a few pixels down.
+     * Move the triangle a few pixels down.
      */
     public void moveDown()
     {
@@ -72,7 +74,7 @@ public class Square {
     }
 
     /**
-     * Move the square horizontally by 'distance' pixels.
+     * Move the triangle horizontally by 'distance' pixels.
      */
     public void moveHorizontal(int distance)
     {
@@ -82,7 +84,7 @@ public class Square {
     }
 
     /**
-     * Move the square vertically by 'distance' pixels.
+     * Move the triangle vertically by 'distance' pixels.
      */
     public void moveVertical(int distance)
     {
@@ -92,7 +94,7 @@ public class Square {
     }
 
     /**
-     * Slowly move the square horizontally by 'distance' pixels.
+     * Slowly move the triangle horizontally by 'distance' pixels.
      */
     public void slowMoveHorizontal(int distance)
     {
@@ -116,7 +118,7 @@ public class Square {
     }
 
     /**
-     * Slowly move the square vertically by 'distance' pixels.
+     * Slowly move the triangle vertically by 'distance' pixels.
      */
     public void slowMoveVertical(int distance)
     {
@@ -142,10 +144,11 @@ public class Square {
     /**
      * Change the size to the new size (in pixels). Size must be >= 0.
      */
-    public void changeSize(int newSize)
+    public void changeSize(int newHeight, int newWidth)
     {
         erase();
-        size = newSize;
+        height = newHeight;
+        width = newWidth;
         draw();
     }
 
@@ -160,25 +163,26 @@ public class Square {
     }
 
     /*
-     * Draw the square with current specifications on screen.
+     * Draw the triangle with current specifications on screen.
      */
     private void draw()
     {
         if(isVisible) {
-            Canvas canvas = Canvas.getCanvas();
-            canvas.draw(this, color,
-                    new Rectangle(xPosition, yPosition, size, size));
+            package1.Canvas canvas = package1.Canvas.getCanvas();
+            int[] xpoints = { xPosition, xPosition + (width/2), xPosition - (width/2) };
+            int[] ypoints = { yPosition, yPosition + height, yPosition + height };
+            canvas.draw(this, color, new Polygon(xpoints, ypoints, 3));
             canvas.wait(10);
         }
     }
 
     /*
-     * Erase the square on screen.
+     * Erase the triangle on screen.
      */
     private void erase()
     {
         if(isVisible) {
-            Canvas canvas = Canvas.getCanvas();
+            package1.Canvas canvas = Canvas.getCanvas();
             canvas.erase(this);
         }
     }

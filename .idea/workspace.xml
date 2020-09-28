@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="36424a51-0951-4ee7-b3df-7efef0b3d72f" name="Default Changelist" comment="1" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hEUEosOSKH7U98hQKzYBDKwr8K" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="jdk.selected.JAVA_MODULE" value="14" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\javacode\week1" />
+      <recent name="D:\javacode\.idea" />
+      <recent name="D:\javacode" />
+      <recent name="D:\javacode\cn.edu.whut.etc.zengchuang" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TicketMachine">
+    <configuration name="NewCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../jdk-14.0.2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="package1.NewCircle" />
+      <module name="week1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="package1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewSquare (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="package1.NewSquare" />
+      <module name="week1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="package1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Picture (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="package1.Picture" />
+      <module name="week1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="package1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicketMachine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.whut.zhengchuang.TicketMachine" />
+      <module name="week2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.whut.zhengchuang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mian (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="package1.mian" />
+      <module name="week1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="package1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TicketMachine" />
+        <item itemvalue="Application.NewSquare (1)" />
+        <item itemvalue="Application.Picture (1)" />
+        <item itemvalue="Application.mian (1)" />
+        <item itemvalue="Application.NewCircle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36424a51-0951-4ee7-b3df-7efef0b3d72f" name="Default Changelist" comment="" />
+      <created>1599575637605</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599575637605</updated>
+      <workItem from="1599575639073" duration="263000" />
+      <workItem from="1600338303576" duration="7000" />
+      <workItem from="1600342653298" duration="931000" />
+      <workItem from="1600350613670" duration="9237000" />
+      <workItem from="1600581248548" duration="417000" />
+      <workItem from="1600581745515" duration="460000" />
+      <workItem from="1600785015864" duration="892000" />
+      <workItem from="1600785944995" duration="88000" />
+      <workItem from="1600786093836" duration="43000" />
+      <workItem from="1600828692045" duration="1463000" />
+      <workItem from="1600862826825" duration="101000" />
+      <workItem from="1600862953038" duration="112000" />
+      <workItem from="1600863090408" duration="4900000" />
+      <workItem from="1601300668236" duration="347000" />
+    </task>
+    <task id="LOCAL-00001" summary="Second commit">
+      <created>1600581347017</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600581347017</updated>
+    </task>
+    <task id="LOCAL-00002" summary="123">
+      <created>1600581993547</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600581993547</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1">
+      <created>1601300811459</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601300811459</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Second commit" />
+    <MESSAGE value="123" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="265" y="63" key="#Project_Structure" timestamp="1600863008678">
+      <screen x="0" y="0" width="1714" height="1103" />
+    </state>
+    <state x="232" y="55" key="#Project_Structure/0.0.1500.960@0.0.1500.960" timestamp="1599575761526" />
+    <state x="265" y="63" key="#Project_Structure/0.0.1714.1103@0.0.1714.1103" timestamp="1600863008678" />
+    <state x="312" y="207" width="1089" height="739" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600862917706">
+      <screen x="0" y="0" width="1714" height="1103" />
+    </state>
+    <state x="312" y="207" width="1089" height="739" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1714.1103@0.0.1714.1103" timestamp="1600862917706" />
+    <state x="626" y="475" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1600863264916">
+      <screen x="0" y="0" width="1714" height="1103" />
+    </state>
+    <state x="626" y="475" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1714.1103@0.0.1714.1103" timestamp="1600863264916" />
+    <state x="608" y="270" key="FileChooserDialogImpl" timestamp="1600863005928">
+      <screen x="0" y="0" width="1714" height="1103" />
+    </state>
+    <state x="532" y="235" key="FileChooserDialogImpl/0.0.1500.960@0.0.1500.960" timestamp="1599575690480" />
+    <state x="608" y="270" key="FileChooserDialogImpl/0.0.1714.1103@0.0.1714.1103" timestamp="1600863005928" />
+    <state width="1671" height="240" key="GridCell.Tab.0.bottom" timestamp="1600929615486">
+      <screen x="0" y="0" width="1714" height="1103" />
+    </state>
+    <state width="1344" height="240" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1600351260326" />
+    <state width="1671" height="240" key="GridCell.Tab.0.bottom/0.0.1714.1103@0.0.1714.1103" timestamp="1600929615486" />
+    <state width="1671" height="240" key="GridCell.Tab.0.center" timestamp="1600929615485">
+      <screen x="0" y="0" width="1714" height="1103" />
+    </state>
+    <state width="1344" height="240" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1600351260325" />
+    <state width="1671" height="240" key="GridCell.Tab.0.center/0.0.1714.1103@0.0.1714.1103" timestamp="1600929615485" />
+    <state width="1671" height="240" key="GridCell.Tab.0.left" timestamp="1600929615485">
+      <screen x="0" y="0" width="1714" height="1103" />
+    </state>
+    <state width="1344" height="240" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1600351260325" />
+    <state width="1671" height="240" key="GridCell.Tab.0.left/0.0.1714.1103@0.0.1714.1103" timestamp="1600929615485" />
+    <state width="1671" height="240" key="GridCell.Tab.0.right" timestamp="1600929615485">
+      <screen x="0" y="0" width="1714" height="1103" />
+    </state>
+    <state width="1344" height="240" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1600351260325" />
+    <state width="1671" height="240" key="GridCell.Tab.0.right/0.0.1714.1103@0.0.1714.1103" timestamp="1600929615485" />
+    <state x="359" y="196" key="SettingsEditor" timestamp="1600862454773">
+      <screen x="0" y="0" width="1714" height="1103" />
+    </state>
+    <state x="359" y="196" key="SettingsEditor/0.0.1714.1103@0.0.1714.1103" timestamp="1600862454773" />
+    <state x="450" y="285" key="Vcs.Push.Dialog.v2" timestamp="1600582051822">
+      <screen x="0" y="0" width="1714" height="1103" />
+    </state>
+    <state x="450" y="285" key="Vcs.Push.Dialog.v2/0.0.1714.1103@0.0.1714.1103" timestamp="1600582051822" />
+    <state x="663" y="465" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600581616480">
+      <screen x="0" y="0" width="1714" height="1103" />
+    </state>
+    <state x="663" y="465" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1714.1103@0.0.1714.1103" timestamp="1600581616480" />
+    <state x="588" y="311" key="extract.method.dialog" timestamp="1600514061282">
+      <screen x="0" y="0" width="1714" height="1103" />
+    </state>
+    <state x="588" y="311" key="extract.method.dialog/0.0.1714.1103@0.0.1714.1103" timestamp="1600514061282" />
+    <state x="134" y="103" key="new project wizard" timestamp="1600863371775">
+      <screen x="0" y="0" width="1714" height="1103" />
+    </state>
+    <state x="117" y="90" key="new project wizard/0.0.1500.960@0.0.1500.960" timestamp="1600342680820" />
+    <state x="134" y="103" key="new project wizard/0.0.1714.1103@0.0.1714.1103" timestamp="1600863371775" />
+    <state x="520" y="241" width="672" height="678" key="search.everywhere.popup" timestamp="1600929596637">
+      <screen x="0" y="0" width="1714" height="1103" />
+    </state>
+    <state x="520" y="241" width="672" height="678" key="search.everywhere.popup/0.0.1714.1103@0.0.1714.1103" timestamp="1600929596637" />
+  </component>
+</project>

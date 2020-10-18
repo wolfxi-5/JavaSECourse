@@ -10,19 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36424a51-0951-4ee7-b3df-7efef0b3d72f" name="Default Changelist" comment="3">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/demo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/experiment/experiment.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/experiment/src/package01/first/TicketCmd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/experiment/src/package01/first/TicketMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/experiment/src/package01/first/calculate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3/src/package01/Notebook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3/week3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/week1/package1/mian.class" beforeDir="false" />
-    </list>
+    <list default="true" id="36424a51-0951-4ee7-b3df-7efef0b3d72f" name="Default Changelist" comment="1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -197,6 +185,7 @@
       <workItem from="1602675799969" duration="4988000" />
       <workItem from="1602685518570" duration="5621000" />
       <workItem from="1603012765467" duration="66000" />
+      <workItem from="1603019657364" duration="414000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1600581347017</created>
@@ -233,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601301567014</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="1">
+      <created>1603019987189</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1603019987189</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,8 +251,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Second commit" />
     <MESSAGE value="123" />
-    <MESSAGE value="1" />
     <MESSAGE value="3" />
-    <option name="LAST_COMMIT_MESSAGE" value="3" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
 </project>
